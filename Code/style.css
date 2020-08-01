@@ -1,7 +1,7 @@
-p { 
-    color: blue;
+.card-img-top {
+    height: 450px;
 }
 
-.navbar-nav {
-float: right;
+h1{
+text-align: center;
 }
