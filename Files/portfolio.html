@@ -25,6 +25,7 @@
 
     </head>
     <header>
+        <!-- This is the Nav Bar bootstrap component. For the portfolio link I put in a # when on page so it doesnt fail when clicked. -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <img src="../Assets/Images/logo.png" width="70" height="70">
             <a class="navbar-brand" href="#"></a>
@@ -48,51 +49,59 @@
     </header>
 
     <body>  
-        <h5>Still Need to make these pages responsive. I was thinking about trying to seperate the pictures and texts out so that when you minimize the screen they stack instead of get squished.</h5>
+        <h5 id="working">I was thinking about trying to seperate the pictures and texts out so that when you minimize the screen they stack instead of get squished. Can't figure that part out.</h5>
         <br>     
-        <div class="container">
-            <div class= "row">
+        <main class="container">
+            <section class= "row">
                 <div class="media">
-                    <img src="../Assets/Images/bike.JPG" class="mr-3 col-md-6" alt="...">
-                    <div class="media-body">
-                    <h5 class="mt-0">Biking in Crested Butte</h5>
-                    Still working on completing this.
+                    <img src="../Assets/Images/bike.JPG" class="mr-3 col" alt="Bike Picture">
+                    <div class="media-body col">
+                        <h5 class="mt-0">Biking in Crested Butte</h5>
+                        Still working on completing this.
                     </div>
                 </div>
+            </section>
+            <section class="row">
                 <div class="media">
-                    <img src="../Assets/Images/camp.jpg" class="mr-3 col-md-6" alt="...">
-                    <div class="media-body">
-                    <h5 class="mt-0">Camping in Colorado</h5>
-                    Still working on completing this.
+                    <img src="../Assets/Images/camp.jpg" class="mr-3 col" alt="Camping Picture">
+                    <div class="media-body col">
+                        <h5 class="mt-0">Camping in Colorado</h5>
+                        Still working on completing this.
 
                     </div>
                 </div>
+            </section>
+            <section class="row">
                 <div class="media">
-                    <img src="../Assets/Images/wake.jpg" class="mr-3 col-md-6" alt="...">
-                    <div class="media-body">
-                    <h5 class="mt-0">Wake Surfing Lake Austin</h5>
-                    Still working on completing this.
+                    <img src="../Assets/Images/wake.jpg" class="mr-3 col" alt="Wakesurf Picture">
+                    <div class="media-body col">
+                        <h5 class="mt-0" >Wake Surfing Lake Austin</h5>
+                        Still working on completing this.
 
                     </div>
                 </div>
+            </section>
+            <section class="row">
                 <div class="media">
-                    <img src="../Assets/Images/swing.jpg" class="mr-3 col-md-6" alt="...">
-                    <div class="media-body">
-                    <h5 class="mt-0">Rope Swing in Lake Austin</h5>
-                    Still working on completing this.
+                    <img src="../Assets/Images/swing.jpg" class="mr-3 col" alt="Rope Swing Picture">
+                    <div class="media-body col">
+                        <h5 class="mt-0 ">Rope Swing in Lake Austin</h5>
+                        Still working on completing this.
 
                     </div>
                 </div>
+            </section>
+            <section class="row">
                 <div class="media">
-                    <img src="../Assets/Images/jag.jpg" class="mr-3 col-md-6" alt="...">
-                    <div class="media-body">
-                    <h5 class="mt-0">Road Trip Through Europe</h5>
-                    Still working on completing this.
+                    <img src="../Assets/Images/jag.jpg" class="mr-3 col" alt="Road Trip Picture">
+                    <div class="media-body col">
+                        <h5 class="mt-0">Road Trip Through Europe</h5>
+                        Still working on completing this.
 
                     </div>
                 </div>
-            </div>
-        </div>
+            </section>
+        </main>
         
     
     </body>
