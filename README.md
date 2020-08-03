@@ -10,7 +10,6 @@ This is complete. Still having issues understanding the media queries but it all
 
 I figured this out but still dont fully understand the grid system after watching a few hours of youtube videos. I understand it when just using boxes and moving those around and stacking them but when I start adding my own content it gets confusing. 
 
-```
 
 ## Testing Performed
 
