@@ -74,7 +74,8 @@ text-align: center;
 }
 
 .card{
-    font-size: 1.65vw;
+	font-size: 1.65vw;
+	margin: 10px;
 
 }
 
@@ -88,6 +89,16 @@ text-align: center;
 
 #working{
     font-size: 2vw;
+}
+
+#homeImage{
+	width: 80%;
+	height: 20%;
+	margin: auto;
+}
+
+.card{
+	margin: auto;
 }
 
 
