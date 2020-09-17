@@ -106,7 +106,7 @@ Employers (and potential collaborators) _will_ look at your GitHub profile, so p
 
 ### 3. Updated Resume
 
-💁 Need help building a resume? Check out the [Career Services milestone resources](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-develop-your-resume).
+💁 ~~~Need help building a resume? Check out the [Career Services milestone resources](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-develop-your-resume).
 
 Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
 
@@ -116,13 +116,13 @@ Your resume should include:
 
 * technical skills section, with all programming languages and technologies listed
 
-* 3 of your strongest projects/homework assignments with brief description, languages used, and URL
+* 3 of your strongest projects/homework assignments with brief description, languages used, and URL~~~
 
 ### 4. Updated LinkedIn Profile
 
-💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](hhttps://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
+💁~~~ Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](hhttps://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
 
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
+Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.~~~
 
 ### ⭐ 5. For Job-Seeking Students (BONUS)
 
